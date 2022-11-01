@@ -18,7 +18,7 @@ $name = 'MUHAMMAD ADAM NUGRAHA_1202204311';
   <body>
     <!-- Nav Bar -->
     <section>
-        <ul class="nav justify-content-center bg-light">
+        <ul class="nav justify-content-center bg-black">
             <li class="nav-item">
               <a class="nav-link text-muted" href="Home.php">Home</a>
             </li>
@@ -55,7 +55,7 @@ $name = 'MUHAMMAD ADAM NUGRAHA_1202204311';
       </div>
     </div>
     <div class="col">
-      <div class="card_" style="width: 100%;">
+      <div class="card" style="width: 100%;">
         <img src="Dodge-Challenger.png" class="card-img-top" alt="mustang">
         <div class="card-body">
           <h5 class="card-title">Dodge Challenger</h5>

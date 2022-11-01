@@ -21,7 +21,7 @@
     <!-- Form -->
         <div class="modal-body row">
             <div class="col-md-6">
-                <img src="mustank.png" class="img-thumbnail mt-5 border-0" alt="mustang">
+                <img src="mustang.png" class="img-thumbnail mt-5 border-0" alt="mustang">
             </div>
             <div class="col-md-6">
                 <h3 class="m-2">Rent your car now!</h3><br>
